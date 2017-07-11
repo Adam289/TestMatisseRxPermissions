@@ -2,7 +2,7 @@
 测试Matisse和RxPermissions的使用  
 
 ## Matisse
-Matisse，是一款由知乎开源的媒体选择器。
+Matisse，是一款由知乎开源的媒体选择器。  
 在Activity和Fragment中使用  
 支持JPEG，PNG，GIF的图片选择和MPEG，MP4格式的视频选择。不能同时选择图片和视频  
 两种主题可供选择，因为知乎也是两种主题  
