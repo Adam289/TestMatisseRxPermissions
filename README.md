@@ -9,11 +9,11 @@ Matisse，是一款由知乎开源的媒体选择器。
 图片Loader  
 自定义过滤条件  
 
-github地址：https://github.com/zhihu/Matisse  
 实践后的使用说明及注意事项  http://www.jianshu.com/p/5ba40cf378c2
+控件原地址：https://github.com/zhihu/Matisse 
 
 ## RxPermissions
 RxPermissions是基于RxJava开发的用于帮助在Android 6.0中处理运行时权限检测的框架。在android 6.0中，系统新增了部分权限的运行时动态获取。而不再是在以前的版本中安装的时候授予权限。
 
-github地址：https://github.com/tbruyelle/RxPermissions  
 实践后的使用说明及注意事项 http://www.jianshu.com/p/08139308c237
+控件原地址：https://github.com/tbruyelle/RxPermissions 
